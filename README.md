@@ -96,26 +96,26 @@ information how to work with them.
 
 | Project                         | Status                           | Ideas Pages                                         |
 | -------                         | ------                           | -----------                                         |
-| [AstroPy]                       |                                  |                                                     | 
+| [AstroPy]                       | Participating                    |                                                     | 
 | [Blosc]                         |                                  |                                                     | 
 | [Cantera]                       |                                  |                                                     | 
 | [Econ-ARK][Econ-ARK]            |                                  |                                                     | 
-| [FEniCS Project][FEniCSproject] |                                  |                                                     | 
+| [FEniCS Project][FEniCSproject] | Participating                    |                                                     | 
 | [IPython]                       |                                  |                                                     | 
-| [Julia]                         |                                  |                                                     | 
+| [Julia]                         | Participating                    |                                                     | 
 | [JuMP]                          |                                  |                                                     | 
-| [Matplotlib]                    |                                  |                                                     | 
+| [Matplotlib]                    | Participating                    |                                                     | 
 | [nteract]                       |                                  |                                                     | 
-| [NumPy]                         |                                  |                                                     | 
+| [NumPy]                         | Participating                    |                                                     | 
 | [Open Journals][theoj]          |                                  |                                                     | 
 | [Project Jupyter][Jupyter]      |                                  |                                                     | 
 | [pandas]                        |                                  |                                                     | 
-| [PyMC3](pymc3)                  |                                  |                                                     | 
+| [PyMC3](pymc3)                  | Participating                    |                                                     | 
 | [PyTables]                      |                                  |                                                     | 
 | [QuantEcon]                     |                                  |                                                     | 
 | [rOpenSci]                      |                                  |                                                     | 
-| [Shogun]                        |                                  |                                                     | 
-| [SunPy]                         |                                  |                                                     | 
+| [Shogun]                        | Participating                    |                                                     | 
+| [SunPy]                         | Participating                    |                                                     | 
 | [SymPy]                         |                                  |                                                     | 
 | [Stan]                          |                                  |                                                     | 
 | [yt]                            |                                  |                                                     | 
@@ -124,7 +124,7 @@ information how to work with them.
 
 | Project              | Status                           | Ideas Pages |
 | -------              | ------                           | ----------- |
-| [ArviZ]              |                                  |             | 
+| [ArviZ]              | Participating                    |             | 
 | [Bokeh]              |                                  |             | 
 | [Chainer]            |                                  |             | 
 | [Conda]              |                                  |             | 
@@ -132,17 +132,17 @@ information how to work with them.
 | [CuPy]               |                                  |             | 
 | [Cython]             |                                  |             | 
 | [Dash]               |                                  |             | 
-| [Data Retriever][DR] |                                  |             | 
+| [Data Retriever][DR] | Participating                    |             | 
 | [Dask]               |                                  |             | 
 | [DyND]               |                                  |             | 
-| [Gensim]             |                                  |             | 
-| [MDAnalysis]         |                                  |             | 
+| [Gensim]             | Participating                    |             | 
+| [MDAnalysis]         | Participating                    |             | 
 | [Numba]              |                                  |             | 
 | [Orange]             |                                  |             | 
 | [Pomegranate]        |                                  |             | 
 | [PythonXY]           |                                  |             | 
-| [QuTiP]              |                                  |             | 
-| [SciPy]              |                                  |             | 
+| [QuTiP]              | Participating                    |             | 
+| [SciPy]              | Participating                    |             | 
 | [scikit-image]       |                                  |             | 
 | [scikit-bio]         |                                  |             | 
 | [scikit-learn]       |                                  |             | 
