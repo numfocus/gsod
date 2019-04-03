@@ -7,3 +7,5 @@ page of each organization under the NumFocus umbrella at this page.
 
 
 See the [README](https://github.com/numfocus/soc/blob/master/README.md) for contact information of each org.
+
+Astropy: [ideas list](https://docs.google.com/document/d/1uqW0tA8DJVaOztBtABafDMDIpACg2Z4rloNwpIUPOFk/edit#heading=h.b8g3rh3bc71r)
