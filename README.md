@@ -81,6 +81,19 @@ In alphabetic order.
   <!--      </p> -->
   <!--   </td> -->
   <!-- </tr> -->
+  
+  <tr>
+    <td>
+      <img width="300px" src="https://i1.wp.com/www.numfocus.org/wp-content/uploads/2016/07/astropy-logo-300.png?w=1080&ssl=1"/>
+    </td>
+    <td>
+      <h1>Astropy</h1>
+      <p>The Astropy Project is a community effort to develop a single core python package for common astronomical computing tasks and to provide a framework which fosters interoperability between Python astronomy packages.
+      </p>
+      <p><a href="http://www.astropy.org/">Website</a> | <a href="https://docs.google.com/document/d/1uqW0tA8DJVaOztBtABafDMDIpACg2Z4rloNwpIUPOFk/edit#heading=h.b8g3rh3bc71r">Ideas List</a> 
+      </p>
+   </td>
+ </tr>
 
 </table>
 
