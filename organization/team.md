@@ -10,5 +10,5 @@ organizing Google Season of Docs for NumFOCUS.
 | Name          |  GitHub Profile 							|
 |---------------|-------------------------------------------|
 | Max Linke     | [kain88-de](https://github.com/kain88-de) |
-| Mridul Seth   | [MridulS](https://github.com/MridulS)     |
+| Gina Helfrich | [Dr-G](https://github.com/Dr-G)     |
 
