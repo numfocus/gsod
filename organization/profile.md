@@ -6,8 +6,9 @@
 
 NumFOCUS is a umbrella organization for many open source research projects. All our projects have documentation at various levels of
 quality. Some projects like [QuTiP](http://qutip.org/docs/latest/) and [matplotlib](https://matplotlib.org/gallery/index.html) have
-execellent documentation and tutorials. The Shogun project has participated in 2012 GSoC Doc Camp. The pandas project has organized 
-documentation [sprints](https://python-sprints.github.io/pandas/). To our knowledge none of the projects participating under the NumFOCUS umbrella have previous experience with technical writer. 
+execellent documentation and tutorials. We strive to continusly improve our documentation and participate in documentation events as well as organise them in the past. The Shogun project has participated in 2012 GSoC Doc Camp. The pandas project has organized 
+documentation [sprints](https://python-sprints.github.io/pandas/). To our knowledge none of the projects participating under the
+NumFOCUS umbrella have previous experience with technical writer. 
 
 ### Previous Experience with GSoC and Similar Programs
 
