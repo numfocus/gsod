@@ -137,7 +137,7 @@ information how to work with them.
 
 | Project              | Status                           | Ideas Pages |
 | -------              | ------                           | ----------- |
-| [ArviZ]              | Participating                    |             | 
+| [ArviZ]              |                     |             | 
 | [Bokeh]              |                                  |             | 
 | [Chainer]            |                                  |             | 
 | [Conda]              |                                  |             | 
@@ -145,10 +145,10 @@ information how to work with them.
 | [CuPy]               |                                  |             | 
 | [Cython]             |                                  |             | 
 | [Dash]               |                                  |             | 
-| [Data Retriever][DR] | Participating                    |             | 
+| [Data Retriever][DR] |                     |             | 
 | [Dask]               |                                  |             | 
 | [DyND]               |                                  |             | 
-| [Gensim]             | Participating                    |             | 
+| [Gensim]             |                     |             | 
 | [MDAnalysis]         | Participating                    |             | 
 | [Numba]              |                                  |             | 
 | [Orange]             |                                  |             | 
