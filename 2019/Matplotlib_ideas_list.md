@@ -22,7 +22,8 @@ Either the overview could cover these topics, or they could possibly make for go
 
 These topics and scope are expected to change as the overview develops and we welcome suggestions by the technical writer on approaches for addressing this audience. 
 
-Related material:
+__How to Document__: https://matplotlib.org/devel/documenting_mpl.html
+__Related material__:
 * https://matplotlib.org/
 * https://scikit-learn.org/stable/tutorial/basic/tutorial.html
 * https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
