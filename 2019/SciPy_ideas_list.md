@@ -25,6 +25,25 @@ Welcome, and thank you for taking an interest in SciPy! On this page we will fir
 As a community driven project we try to have all conversations about SciPy in public. The main venue for discussions related to the *development* of SciPy (which includes GSoD) is the `scipy-dev` mailing list: https://scipy.org/scipylib/mailing-lists.html#mailing-lists. Please register and post to that list for discussing a GSoD proposal or idea. In case you really want to pre-discuss something in private first, please contact the SciPy GSoD coordinator (Ralf Gommers, ralf.gommers@gmail.com).
 
 
+## Project idea: High level restructuring and end user focus
+
+SciPy serves many kinds of users: students new to programming or Python, educators, researchers, domain experts in one of the areas that SciPy covers, data scientists, library developers, packagers, and more. And SciPy's documentation is *huge* (the pdf version of the last release is over 2500 pages). **The challenge**: *provide ways to guide those users to the parts of the documentation most relevant to them.* We would love to work with a technical writer that is able to help us address this challenge.
+
+**Possible topics** include:
+- Improving the structure and content of https://scipy.org/
+- Reviewing and improving the structure of the main navigation page of [the SciPy documentation](http://scipy.github.io/devdocs/).
+- Producing a roadmap or list of work items for engaging the community in further documentation work (we have a lot of contributor, channeling their energy by setting the right goals and priorities could have a lot of impact). This may include making explicit what different kinds of users need to see.
+- Rewriting a section of the tutorial in a better style (that can then serve as a template for other/new sections).
+
+We assume that the technical writer who will take on this project is not yet familiar with SciPy and its community. This means time will need to be built into the project plan at the start to get familiar with it. Mentors will be able to provide walkthroughs, set up time for discussing with or interviewing different kinds of end users, or anything else that in the writers experience is a good idea. *Note that some mentors have experience working with technical writers in a day-job-in-industry setting, but not in an open source setting - so we'll all learn a lot!*
+
+**Relevant material** that is not yet linked above:
+
+- The [SciPy Lecture Notes](https://scipy-lectures.org/), an external set of material specifically aimed at learning/teaching SciPy in courses.
+- A [presentation at SciPy'18](https://www.youtube.com/watch?v=oHmm3mPxg6Y&t=797s) about SciPy's 1.0 release and its community.
+- Another [SciPy tutorial](https://www.datacamp.com/community/tutorials/python-scipy-tutorial) and [cheat sheet](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet).
+- [Sources and executable notebooks](https://github.com/elegant-scipy/elegant-scipy) for the book [Elegant SciPy](https://www.ebooks.com/en-nl/95838978/elegant-scipy/nunez-iglesias-juan-walt-stefan-van-der-dashnow-ha/).
+- The [goodreads list](https://www.goodreads.com/shelf/show/python-scipy) of books on "python-scipy". Many of those books are about the "SciPy ecosystem", which has NumPy and SciPy at its core.
 
 
 ## Project idea: Improving the documentation of scipy.stats
