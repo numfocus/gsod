@@ -18,7 +18,7 @@ __Description:__ Matplotlib was primarily develped by scientists for scientific 
 
 The overview would possibly cover topics such as:
 * the visualization pipeline: data->transformation->chart [1]
-* matplotlib's role in the pipeline , i.e. that it's a low level library concerned with visual primatives [7,2,3]
+* matplotlib's role in the pipeline , i.e. that it's a low level library [7,2,3]
 * assumptions matplotlib makes about the structure of the data, user, and task
 * the relationship between matplotlib and libaries built on top, such as Pandas and Seaborn [9, 8, 11] 
 * matplotlib's imperative architecture and how that differs from declarative libraries like ggplot
@@ -27,7 +27,7 @@ Either the overview could cover these topics, or they could possibly make for go
 * terminology that can be confusing or is used inconsistently (ex norm and colormap on images, tickers/locators)
 * how to customize the plots created by libraries like Pandas and Seaborn
 
-These topics and scope are expected to change as the overview develops and we welcome suggestions by the technical writer on approaches for addressing this audience. 
+These topics, and the scope, are expected to change as the overview develops and we welcome suggestions by the technical writer on approaches for addressing this audience. 
 
 __How to Document__: https://matplotlib.org/devel/documenting_mpl.html
 
