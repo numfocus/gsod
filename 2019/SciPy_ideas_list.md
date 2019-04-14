@@ -48,24 +48,26 @@ We assume that the technical writer who will take on this project is not yet fam
 
 ## Project idea: Improving the documentation of scipy.stats
 
-The aim of the project is to enhance the documentation of the statistics module of SciPy (scipy.stats). The current documentation contains a reference guide that describes the API of the functions and a tutorial (see *Related material* below for the links). The existing material can be extended in terms of content and quality. 
+The aim of the project is to enhance the documentation of the statistics module of SciPy (`scipy.stats`). The current documentation contains a reference guide that describes the API of the functions and a tutorial (see *Related material* below for the links). The existing material can be extended in terms of content and quality.
 
 Some ideas that a technical writer can work on:
 
-* improve the tutorial site of the stats module
+* Improve the tutorial site of the stats module
     * review and suggest changes to improve the existing material
     * describe further use cases 
-* improve the documentation of the reference guide 
+* Improve the documentation of the reference guide 
     * check whether current description can be improved, also taking into account known issues
     * add examples and references
     * cross-reference to other relevant / similar functions in the module
 
 The second point would require good knowledge of statistics whereas the first point should only require basic knowledge. In general, the project leaves a lot of freedom to the technical writer depending on interest and background. The mentors would assist and provide guidance as needed.
 
+This project would be suitable to a writer who wants to treat one submodule of SciPy in-depth. We hope to raise the quality of the documentation for this one module to a state-of-the-art level; that can then also serve as an example for other modules. Note that while `scipy.stats` is a good target as it is one of the most popular modules and an entry point for many students, we are also happy to discuss ideas for other modules with writers if they have specific interests.
+
 **Related material**
-* tutorial site of the stats module: https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html
-* reference guide of stats functions https://docs.scipy.org/doc/scipy/reference/stats.html
-* example of a function that only has a very brief documentation at the moment https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html#scipy.stats.zscore
-* example of Github issues related to the documentation:
-    * https://github.com/scipy/scipy/issues/9119
-    * https://github.com/scipy/scipy/issues/4952
+* The [tutorial site](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html) of the stats module.
+* The [reference guide of stats functions](https://docs.scipy.org/doc/scipy/reference/stats.html).
+* An example of a function that only has a very brief documentation at the moment, [scipy.stats.zscore](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html#scipy.stats.zscore).
+* Examples of Github issues related to the documentation:
+    * https://github.com/scipy/scipy/issues/9119 (missing docs)
+    * https://github.com/scipy/scipy/issues/4952 (tutorial improvent suggestions by a user)
