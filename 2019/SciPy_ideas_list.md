@@ -8,6 +8,9 @@ Welcome, and thank you for taking an interest in SciPy! On this page we will fir
 
 **How SciPy's documentation is built**: All our documentation and websites are built with [Sphinx](http://www.sphinx-doc.org). Sphinx generates static websites (so easy to deploy) and provides extensive functionality to transform plain-text *reStructuredText* documents to html, as well as extract and cross-link documentation automatically from docstrings in Python source code. Reference documentation follows the [NumPy docstring standard](https://numpydoc.readthedocs.io/en/latest/format.html). A detailed guide on how to document functions, classes and other objects can be found [here](https://www.numpy.org/devdocs/docs/howto_document.html), and how to build them [here](https://www.numpy.org/devdocs/docs/howto_build_docs.html) (note that the process for NumPy and SciPy is identical).
 
+**SciPy's approach to documentation work**: Documentation tasks and issues are maintained on our [GitHub issue tracker](https://github.com/scipy/scipy/issues). Changes to the documentation are made via pull requests on GitHub, and reviewed with our standard review process which is the same for documentation and code (see our [contributing guide](http://scipy.github.io/devdocs/hacking.html)). For any new features added to SciPy, comprehensive reference documentation must be added at the same time as code, including usage examples. We do not have an overall "documentation work plan" to fix holes in existing documentation and restructure the documentation for, e.g., easier navigation. The core development team drives and decides on doc changes as they are proposed; there is no dedicated "documentation manager" (yet, our project maturity is still increasing! - see, e.g., our [developer guide](http://scipy.github.io/devdocs/hacking.html) and [governance structure](http://scipy.github.io/devdocs/dev/governance/governance.html)).
+
+
 **Current documentation**:
 
 - Latest version (tutorial, reference guide, developer docs): http://scipy.github.io/devdocs/
@@ -24,7 +27,7 @@ As a community driven project we try to have all conversations about SciPy in pu
 
 
 
-## Project: Improving the documentation of scipy.stats
+## Project idea: Improving the documentation of scipy.stats
 
 The aim of the project is to enhance the documentation of the statistics module of SciPy (scipy.stats). The current documentation contains a reference guide that describes the API of the functions and a tutorial (see *Related material* below for the links). The existing material can be extended in terms of content and quality. 
 
