@@ -10,5 +10,7 @@ See the [README](https://github.com/numfocus/soc/blob/master/README.md) for cont
 
 Astropy: [ideas list](https://docs.google.com/document/d/1uqW0tA8DJVaOztBtABafDMDIpACg2Z4rloNwpIUPOFk/edit#heading=h.b8g3rh3bc71r)
 
+NumPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/NumPy_ideas_list.md)
+
 SciPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/SciPy_ideas_list.md)
 
