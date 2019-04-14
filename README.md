@@ -95,6 +95,32 @@ In alphabetic order.
    </td>
  </tr>
 
+  <tr>
+    <td>
+      <img width="300px" src="https://i2.wp.com/www.numfocus.org/wp-content/uploads/2016/07/numpy-logo-300.png?w=1080&ssl=1"/>
+    </td>
+    <td>
+      <h1>NumPy</h1>
+      <p>NumPy provides an array structure that is *the* fundamental building block of the scientific Python and PyData ecosystems.
+      </p>
+      <p><a href="https://numpy.org">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/NumPy_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/NumPy_ideas_list.md#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+
+  <tr>
+    <td>
+      <img width="300px" src="https://i2.wp.com/www.numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png?w=1080&ssl=1"/>
+    </td>
+    <td>
+      <h1>SciPy</h1>
+      <p>SciPy is a core package of the scientific Python and PyData ecosystems. It provides a large collection of fundamental algorithms and data structures, from statistics and numerical optimization to linear algebra, Fourier transforms and sparse matrices.
+      </p>
+      <p><a href="https://www.scipy.org">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/SciPy_ideas_list.md">Ideas List</a> | <a href="https://github.com/scipy/scipy/wiki/Google-Summer-of-Docs-2019#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+
 </table>
 
 
