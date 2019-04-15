@@ -74,6 +74,8 @@ The project's documentation needs the following fixes and upgrades:
 
 -  Avoid search engines finding old versions of documentation by using the `cannonical_url` and other options of `sphinx_rtd_theme`.
 
+Most of the tasks described above have associated qutip-doc issues with further details. [Issues Link](https://github.com/qutip/qutip-doc/issues)
+
 All of the tasks listed above will not require previous knowledge of QuTiP for their successful completion. We have experience in mentoring students and researchers from the undergraduate level to the postdoc level, and as previous GSoC students and current GSoC mentors we have clarity on the important tasks that maximize a projects fruitful progression: communication, guidance, availability, and clear deliverables.  
 
 
