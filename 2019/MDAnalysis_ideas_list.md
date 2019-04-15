@@ -22,7 +22,7 @@ At the moment, the primary sources of information for users are
 - [Workshop materials](https://www.mdanalysis.org/WorkshopHackathon2018/)
 - two [videos](https://www.mdanalysis.org/pages/learning_MDAnalysis/#videos) from conference presentations
 
-We identified four areas for improvement (in rank order of priority):
+We identified two areas for improvement (in rank order of priority):
 
 ### Restructure docs
 
