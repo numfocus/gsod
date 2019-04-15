@@ -167,7 +167,7 @@ information how to work with them.
 | [Orange]             |                                  |             | 
 | [Pomegranate]        |                                  |             | 
 | [PythonXY]           |                                  |             | 
-| [QuTiP]              |                     |             | 
+| [QuTiP]              | Participating                    |             | 
 | [SciPy]              | Participating                    |             | 
 | [scikit-image]       |                                  |             | 
 | [scikit-bio]         |                                  |             | 
@@ -218,7 +218,7 @@ information how to work with them.
 [Pomegranate]: https://pomegranate.readthedocs.io/en/latest/
 [PyTables]: http://pytables.github.com/
 [PythonXY]: http://code.google.com/p/pythonxy/wiki/Welcome
-[QuTiP]: https://qutip.org
+[QuTiP]: http://qutip.org
 [rOpenSci]: http://ropensci.org/
 [quantecon]: http://quantecon.org/
 [SCF]: http://software-carpentry.org/scf/index.html
