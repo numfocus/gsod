@@ -19,7 +19,7 @@ __Mailing List__:	matplotlib-devel@python.org
 __Email:__ matplotlib@numfocus.org
 
 ## Project
-We welcome proposals for all things documentation, including but not at all limited to the project listed here. We strongly believe you've probably got a better [handle on how we to fix the docs](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can) than we do.
+We welcome proposals for all things documentation, including but not at all limited to the project listed here. We strongly believe you've probably got a better [handle on how to fix our docs](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can) than we do.
 
 __Project name:__ Matplotlib for Data Scientists
 
