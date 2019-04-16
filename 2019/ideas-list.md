@@ -8,6 +8,8 @@ page of each organization under the NumFocus umbrella at this page.
 
 See the [README](https://github.com/numfocus/soc/blob/master/README.md) for contact information of each org.
 
+Matplotlib [ideas list](https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md)
+
 NumPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/NumPy_ideas_list.md)
 
 SciPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/SciPy_ideas_list.md)
