@@ -10,6 +10,8 @@ See the [README](https://github.com/numfocus/soc/blob/master/README.md) for cont
 
 Matplotlib [ideas list](https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md)
 
+MDAnalysis [ideas list](https://github.com/numfocus/gsod/blob/master/2019/MDAnalysis_ideas_list.md)
+
 NumPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/NumPy_ideas_list.md)
 
 SciPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/SciPy_ideas_list.md)
