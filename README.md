@@ -3,9 +3,9 @@
 | [Sub organizations](https://github.com/numfocus/gsod/tree/update-docs#sub-organizations) | [IDEAS LIST][IL] | [writer guides][CONTRIBUTING] |
 
 [NumFOCUS][] will be applying as an umbrella mentoring organization
-for [Google Season of Docs 2019][GSoD]. [NumFOCUS][] promotes open practices in research, data, and scientific computing.
+for [Google Season of Docs 2019](https://developers.google.com/season-of-docs/docs/). [NumFOCUS][] promotes open practices in research, data, and scientific computing.
 
-[Google Season of Docs][GSoD] is a program to foster open source collaborating
+[Google Season of Docs](https://developers.google.com/season-of-docs/docs/) is a program to foster open source collaborating
 with technical writers sponsored by Google. This repository contains information
 specific to NumFOCUS participation in GSoD. For general information about the
 competition, including this year's application timeline and key phases involved,
