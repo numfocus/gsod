@@ -126,7 +126,7 @@ information how to work with them.
 | [Blosc]                         |                                  |                                                     | 
 | [Cantera]                       |                                  |                                                     | 
 | [Econ-ARK][Econ-ARK]            |                                  |                                                     | 
-| [FEniCS Project][FEniCSproject] | Participating                    |                                                     | 
+| [FEniCS Project][FEniCSproject] |                     |                                                     | 
 | [IPython]                       |                                  |                                                     | 
 | [Julia]                         | Participating                    |                                                     | 
 | [JuMP]                          |                                  |                                                     | 
