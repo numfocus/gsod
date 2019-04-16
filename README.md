@@ -128,7 +128,7 @@ information how to work with them.
 | [Econ-ARK][Econ-ARK]            |                                  |                                                     | 
 | [FEniCS Project][FEniCSproject] |                     |                                                     | 
 | [IPython]                       |                                  |                                                     | 
-| [Julia]                         | Participating                    |                                                     | 
+| [Julia]                         |                     |                                                     | 
 | [JuMP]                          |                                  |                                                     | 
 | [Matplotlib]                    | Participating                    |                                                     | 
 | [nteract]                       |                                  |                                                     | 
@@ -136,12 +136,12 @@ information how to work with them.
 | [Open Journals][theoj]          |                                  |                                                     | 
 | [Project Jupyter][Jupyter]      |                                  |                                                     | 
 | [pandas]                        |                                  |                                                     | 
-| [PyMC3](pymc3)                  | Participating                    |                                                     | 
+| [PyMC3](pymc3)                  |                     |                                                     | 
 | [PyTables]                      |                                  |                                                     | 
 | [QuantEcon]                     |                                  |                                                     | 
 | [rOpenSci]                      |                                  |                                                     | 
 | [Shogun]                        | Participating                    |                                                     | 
-| [SunPy]                         | Participating                    |                                                     | 
+| [SunPy]                         |                     |                                                     | 
 | [SymPy]                         |                                  |                                                     | 
 | [Stan]                          |                                  |                                                     | 
 | [yt]                            |                                  |                                                     | 
