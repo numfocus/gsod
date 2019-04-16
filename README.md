@@ -66,21 +66,34 @@ The list should contain for each project.
 In alphabetic order.
 
 <table>
+  
+  <tr>
+    <td>
+      <img width="300px" src="https://i0.wp.com/numfocus.org/wp-content/uploads/2016/07/matplotlib-logo-300.png?w=300&ssl=1"/>
+    </td>
+    <td>
+      <h1>Matplotlib</h1>
+      <p>Matplotlib is a flexible and customizable tool for producing static and interactive data visualizations..
+      </p>
+      <p><a href="https://www.matplotlib.org">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+ 
+ <tr>
+    <td>
+      <img width="300px" src="https://i1.wp.com/www.numfocus.org/wp-content/uploads/2017/11/mdanalysis-logo-300.png?w=1080&ssl=1" />
+    </td>
+    <td>
+       <h1>MDAnalysis</h1>
+       <p>MDAnalysis is a Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats</p>
+       <p>
+         <a href="https://www.mdanalysis.org/">Website</a> | <a href="https://groups.google.com/forum/#!forum/mdnalysis-devel">Mailing list</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/MDAnalysis_ideas_list.md">Ideas List</a> | <a href="https://github.com/MDAnalysis/mdanalysis">Source Code</a>
+       </p>
+    </td>
+  </tr>
+ <tr>
 
-  <!-- <tr> -->
-  <!--   <td> -->
-  <!--     <img width="300px" src="img/arviz.png"/> -->
-  <!--   </td> -->
-  <!--   <td> -->
-  <!--      <h1>ArviZ</h1> -->
-  <!--      <p> -->
-  <!--       ArviZ is a Python package for exploratory analysis of Bayesian models. Includes functions for posterior analysis, sample diagnostics, model checking, and comparison. The goal is to provide backend-agnostic tools for diagnostics and visualizations of Bayesian inference in Python, by first converting inference data into xarray objects. -->
-  <!--      </p> -->
-  <!--      <p> -->
-  <!--        <a href="https://arviz-devs.github.io/arviz/">Website</a> | <a href="https://github.com/arviz-devs/arviz/wiki/GSoD-2019-projects">Ideas List</a> | <a href="https://gitter.im/arviz-devs/community"> Contact (Gitter) </a> | <a href="https://github.com/arviz-devs/arviz">Source Code</a> -->
-  <!--      </p> -->
-  <!--   </td> -->
-  <!-- </tr> -->
   
   <tr>
     <td>
@@ -107,7 +120,8 @@ In alphabetic order.
       </p>
    </td>
  </tr>
-
+ 
+   
 </table>
 
 
