@@ -21,7 +21,6 @@ __Mailing List__: blosc@googlegroups.com
 
 __Email:__ blosc@blosc.org
 
-
 __Project name:__ Blosc: Handling Compressed Data for Scientists
 
 __Mentor:__ [FrancescAlted](https://github.com/FrancescAlted)
