@@ -3,7 +3,7 @@
 # About Shogun
 Shogun is a library for efficient and unified Machine Learning (ML), with its main distinguishing feature being that its C++ core can be used from a wide range of languages (Python, R, Java, Octave, etc.) via a unified API.
 The library contains many state-of-the-art implementations of modern ML algorithms, as well as many algorithms that are not part of other libraries.
-The project is one of the oldest ML libraries (started 1999), and one of the largest ML codebases, see e.g. https://www.openhub.net/p/hogun for code statistics, with many scientific citations and users world-wide.
+The project is one of the oldest ML libraries (started 1999), and one of the largest ML codebases, see e.g. https://www.openhub.net/p/shogun for code statistics, with many scientific citations and users world-wide.
 
 # The state of Shogun's documentation
 Shogun's documentation has been written by multiple generations of: core developers, external developers, GSoC students, interns, etc -- most on a volunteer basis -- as such, it is heavily fragmented.
