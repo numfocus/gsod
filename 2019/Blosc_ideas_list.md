@@ -56,16 +56,17 @@ In particular, we would like to improve:
 
 ### Similar libraries that we could use as example
 
-[CURL](https://curl.haxx.se/docs/) is a popular C library that comes with a very complete documentation and it would be a good example to follow.
+* [CURL](https://curl.haxx.se/docs/) is a popular C library that comes with a very complete documentation and it would be a good example to follow.  In particular, the [Using curl to automate HTTP jobs](https://curl.haxx.se/docs/httpscripting.html) chapter is a fine example of how to describe possible applications of a common use case.
+
+* [Zarr](https://zarr.readthedocs.io/en/stable/) is a multidimensional compressed container, but for Python instead of C.  The documentation is very well crafted and it can be a nice source of inspiration too.
+
+### Related material
+* [0] http://blosc.org/pages/blosc-in-depth/
+* [1] http://blosc.org/posts/compress-me-stupid/
+* [2] http://blosc.org/posts/breaking-memory-walls/
+* [3] http://alimanfoo.github.io/2016/09/21/genotype-compression-benchmark.html
 
 __Paper__:
 Francesc Alted, "Why Modern CPUs Are Starving and What Can Be Done about It" in Computing in Science & Engineering, vol. 12, pp. 68-71, March/April 2010. doi: 10.1109/MCSE.2010.51
 * URL1: https://www.computer.org/csdl/magazine/cs/2010/02/mcs2010020068/13rRUxBa5fz
 * URL2: http://www.blosc.org/docs/StarvingCPUs-CISE-2010.pdf
-
-
-__Related material__:
-* [0] http://blosc.org/pages/blosc-in-depth/
-* [1] http://blosc.org/posts/compress-me-stupid/
-* [2] http://blosc.org/posts/breaking-memory-walls/
-* [3] http://alimanfoo.github.io/2016/09/21/genotype-compression-benchmark.html
