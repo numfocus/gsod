@@ -54,6 +54,10 @@ In particular, we would like to improve:
 * the relationship between Blosc and libraries built on top, such as PyTables, bcolz or zarr
 * How-to guides for compressing, storing and retrieving data in different scenarios
 
+### Similar libraries that we could use as example
+
+[CURL](https://curl.haxx.se/docs/) is a popular C library that comes with a very complete documentation and it would be a good example to follow.
+
 __Paper__:
 Francesc Alted, "Why Modern CPUs Are Starving and What Can Be Done about It" in Computing in Science & Engineering, vol. 12, pp. 68-71, March/April 2010. doi: 10.1109/MCSE.2010.51
 * URL1: https://www.computer.org/csdl/magazine/cs/2010/02/mcs2010020068/13rRUxBa5fz

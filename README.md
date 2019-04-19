@@ -123,7 +123,7 @@ information how to work with them.
 | Project                         | Status                           | Ideas Pages                                         |
 | -------                         | ------                           | -----------                                         |
 | [AstroPy]                       |                     |                                                     | 
-| [Blosc]                         |                                  |                                                     | 
+| [Blosc]                         |  Participating                    |                                                     | 
 | [Cantera]                       |                                  |                                                     | 
 | [Econ-ARK][Econ-ARK]            |                                  |                                                     | 
 | [FEniCS Project][FEniCSproject] | Participating                    |                                                     | 
