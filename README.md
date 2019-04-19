@@ -13,8 +13,8 @@ This Git repository stores information about NumFOCUS' participation in
 Google Season of Docs 2019 program and previous editions.
 -->
 
-This Git repository stores information about NumFOCUS'
-application for Google Season of Docs in the current and previous years.
+This Git repository stores information about NumFOCUS projects
+applying for Google Season of Docs. All listed projects are applying individually. The repo shows the status for all projects and gives a common place to publish idea lists. 
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
