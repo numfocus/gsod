@@ -16,3 +16,5 @@ NumPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/NumPy_idea
 
 SciPy: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/SciPy_ideas_list.md)
 
+Shogun: [ideas list](https://github.com/numfocus/gsod/blob/master/2019/Shogun_ideas_list.md)
+
