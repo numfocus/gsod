@@ -9,11 +9,15 @@ __Repositories:__
   * https://github.com/Blosc/c-blosc2
   * https://github.com/Blosc/Caterva
 
-__Description:__ [C-Blosc](https://github.com/Blosc/c-blosc) is a specialized meta-compressor for binary data (data that usually represents numbers using a fixed amount of bytes).  C-Blosc is designed to bring data to CPU computing units as fast as possible. The Blosc library optimizes compression speed to improve performance for computations on compressed data sets.
+__Fundamental building blocks for Blosc:__
 
-[C-Blosc2](https://github.com/Blosc/c-blosc2) is the next generation of the library. In addition to improved performance, it also offers efficient support for persistency and multiple architectures (Intel and ARM).  The Blosc2 libraries offer major benefits to big data projects interested in leveraging compression in their pipelines.  However, the current documentation, although [pretty formatted](https://blosc-doc.readthedocs.io), is fairly terse and only meant for low-level C developers.
+Blosc is more a denomination for the compression technology used, and it serves as an umbrella for different implementations and applications of the technology.  The libraries that act as the fundamental building blocks of the ecosystem are:
 
-[Caterva](https://github.com/Blosc/Caterva) is a C library on top of C-Blosc2 that implements a simple multidimensional container for compressed binary data.  It adds the capability to filter, manipulate, and transform data in these containers, either in-memory or on-disk.  This is a young project, so documentation here is still extremely basic.
+* [C-Blosc](https://github.com/Blosc/c-blosc) is a specialized meta-compressor for binary data (data that usually represents numbers using a fixed amount of bytes).  C-Blosc is designed to bring data to CPU computing units as fast as possible. The Blosc library optimizes compression speed to improve performance for computations on compressed data sets.
+
+* [C-Blosc2](https://github.com/Blosc/c-blosc2) is the next generation of the library. In addition to improved performance, it also offers efficient support for persistency and multiple architectures (Intel and ARM).  The Blosc2 libraries offer major benefits to big data projects interested in leveraging compression in their pipelines.  However, the current documentation, although [pretty formatted](https://blosc-doc.readthedocs.io), is fairly terse and only meant for low-level C developers.
+
+* [Caterva](https://github.com/Blosc/Caterva) is a C library on top of C-Blosc2 that implements a simple multidimensional container for compressed binary data.  It adds the capability to filter, manipulate, and transform data in these containers, either in-memory or on-disk.  This is a young project, so documentation here is still extremely basic.
 
 ## The state of Blosc documentation
 
@@ -30,7 +34,7 @@ The traditional documentation for the Blosc library is made via docstrings in th
 * GitHub repository (all the projects inside the Blosc umbrella): https://github.com/Blosc
 
 ## Contact
-The primary communication channels are chat and mailing list, but please feel free to email us (Francesc Alted <francesc@blosc.org>, as GSoD coordinator) if you would like to speak privately.
+The primary communication channels are chat and mailing list, but please feel free to email us ([Francesc Alted](francesc@blosc.org), as GSoD coordinator) if you would like to speak privately.
 
 __Chat:__ https://gitter.im/Blosc/c-blosc
 
@@ -61,12 +65,12 @@ In particular, we would like to improve:
 * [Zarr](https://zarr.readthedocs.io/en/stable/) is a multidimensional compressed container, but for Python instead of C.  The documentation is very well crafted and it can be a nice source of inspiration too.
 
 ### Related material
+
+__Articles__:
 * [0] http://blosc.org/pages/blosc-in-depth/
 * [1] http://blosc.org/posts/compress-me-stupid/
 * [2] http://blosc.org/posts/breaking-memory-walls/
 * [3] http://alimanfoo.github.io/2016/09/21/genotype-compression-benchmark.html
 
 __Paper__:
-Francesc Alted, "Why Modern CPUs Are Starving and What Can Be Done about It" in Computing in Science & Engineering, vol. 12, pp. 68-71, March/April 2010. doi: 10.1109/MCSE.2010.51
-* URL1: https://www.computer.org/csdl/magazine/cs/2010/02/mcs2010020068/13rRUxBa5fz
-* URL2: http://www.blosc.org/docs/StarvingCPUs-CISE-2010.pdf
+Francesc Alted, ["Why Modern CPUs Are Starving and What Can Be Done about It"](http://www.blosc.org/docs/StarvingCPUs-CISE-2010.pdf) in Computing in Science & Engineering, vol. 12, pp. 68-71, March/April 2010. doi: 10.1109/MCSE.2010.51
