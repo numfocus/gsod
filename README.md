@@ -51,13 +51,27 @@ In alphabetic order.
 
 <table>
   
+   <tr>
+    <td>
+      <img width="300px" src="https://i0.wp.com/numfocus.org/wp-content/uploads/2019/02/blosc-logo-300x300.png?resize=300%2C300&ssl=1"/>
+    </td>
+    <td>
+      <h1>Blosc</h1>
+      <p>Blosc is a very high performance meta-compressor specially designed for compressing binary data.
+      </p>
+      <p><a href="http://blosc.org/">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Blosc_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Blosc_ideas_list.md#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+ 
+  
   <tr>
     <td>
       <img width="300px" src="https://i0.wp.com/numfocus.org/wp-content/uploads/2016/07/matplotlib-logo-300.png?w=300&ssl=1"/>
     </td>
     <td>
       <h1>Matplotlib</h1>
-      <p>Matplotlib is a flexible and customizable tool for producing static and interactive data visualizations..
+      <p>Matplotlib is a flexible and customizable tool for producing static and interactive data visualizations.
       </p>
       <p><a href="https://www.matplotlib.org">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md#contact"> Contact </a>
       </p>
