@@ -12,8 +12,8 @@ documentation and tutorials. We strive to continuously improve our documentation
 and participate in documentation events as well as organise them in the past.
 The numpy and scipy projects have mentors experienced with technical writers in
 their day-to-day job but not in an open-source setting. The Shogun project has
-participated in 2012 GSoC Doc Camp. The pandas project has organized
-documentation [sprints](https://python-sprints.github.io/pandas/). NumFOCUS as
+participated in 2012 GSoC Doc Camp. The pandas, NumPy, SciPy and Matplotlib projects have organized
+documentation sprints and participated in the [docathon](https://bids.berkeley.edu/events/docathon). NumFOCUS as
 an organisation has also funded documentation projects through its small grants
 program in previous years.
 

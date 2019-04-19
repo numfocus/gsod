@@ -1,14 +1,11 @@
 # Google Season of Docs
 
-| [Sub organizations](https://github.com/numfocus/gsod/tree/update-docs#sub-organizations) | [IDEAS LIST][IL] | [writer guides][CONTRIBUTING] |
+[NumFOCUS][] will participate in [Google Season of Docs 2019](https://developers.google.com/season-of-docs/docs/). [NumFOCUS][] promotes open practices in research, data, and scientific computing.
 
-[NumFOCUS][] will be applying as an umbrella mentoring organization
-for [Google Season of Docs 2019][GSoD]. [NumFOCUS][] promotes open practices in research, data, and scientific computing.
-
-[Google Season of Docs][GSoD] is a program to foster open source collaborating
+[Google Season of Docs](https://developers.google.com/season-of-docs/docs/) is a program to foster open source collaborating
 with technical writers sponsored by Google. This repository contains information
-specific to NumFOCUS participation in GSoD. For general information about the
-competition, including this year's application timeline and key phases involved,
+specific to NumFOCUS related organizations participation in GSoD. For general information about the
+program, including this year's application timeline and key phases involved,
 please see the [GSoD website](https://developers.google.com/season-of-docs/docs/)
 
 <!--
@@ -16,43 +13,30 @@ This Git repository stores information about NumFOCUS' participation in
 Google Season of Docs 2019 program and previous editions.
 -->
 
-This Git repository stores information about NumFOCUS'
-application for Google Season of Docs in the current and previous years.
+This Git repository stores information about NumFOCUS projects
+applying for Google Season of Docs. All listed projects are applying individually. The repo shows the status for all projects and gives a common place to publish idea lists. 
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
 - [Google Season of Docs](#google-season-of-docs)
     - [Technical Writers](#technical-writers)
-    - [Sub Organizations](#sub-organizations)
-    - [Organizations Confirmed Under NumFOCUS Umbrella](#organizations-confirmed-under-numfocus-umbrella)
-    - [NumFOCUS Organizations](#numfocus-organizations)
-        - [Fiscally Sponsored Organizations GSoD Status](#fiscally-sponsored-organizations-gsod-status)
-        - [Affiliated Organizations GSoD Status](#affiliated-organizations-gsod-status)
+    - [Participating Organizations](#participating-organizations)
 
 <!-- markdown-toc end -->
 
 
 ## Technical Writers
 
-NumFOCUS is participating as a umbrella organization. This means that
-you will need to identify a specific project to apply to under the
-NumFOCUS umbrella. (Projects are listed below.)
-
+Welcome, and thank you for taking an interest in NumFOCUS! 
 Read [this document][CONTRIBUTING] to learn how to apply for the GSoD program
-with NumFOCUS. Please also check out our [ideas list][IL].
+with NumFOCUS. Please also check out our combined [ideas list][IL].
 
-For any questions, please open an issue in our [issue tracker][issues] or send a
-email to gsod@numfocus.org, our mailing list address. Please also consider
-subscribing to the mailing list at
-https://groups.google.com/a/numfocus.org/forum/#!forum/gsod.
+For any questions, please contact the project you want to work with directly.
 
-## Sub Organizations
 
-If you want to participate as a sub organization of NumFOCUS please read
-this [guide](CONTRIBUTING-mentors.md).
 
-## Organizations Confirmed Under NumFOCUS Umbrella
+## Participating Organizations
 
 <!--
 The list should contain for each project.
@@ -66,21 +50,34 @@ The list should contain for each project.
 In alphabetic order.
 
 <table>
+  
+  <tr>
+    <td>
+      <img width="300px" src="https://i0.wp.com/numfocus.org/wp-content/uploads/2016/07/matplotlib-logo-300.png?w=300&ssl=1"/>
+    </td>
+    <td>
+      <h1>Matplotlib</h1>
+      <p>Matplotlib is a flexible and customizable tool for producing static and interactive data visualizations..
+      </p>
+      <p><a href="https://www.matplotlib.org">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Matplotlib_ideas_list.md#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+ 
+ <tr>
+    <td>
+      <img width="300px" src="https://i1.wp.com/www.numfocus.org/wp-content/uploads/2017/11/mdanalysis-logo-300.png?w=1080&ssl=1" />
+    </td>
+    <td>
+       <h1>MDAnalysis</h1>
+       <p>MDAnalysis is a Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats</p>
+       <p>
+         <a href="https://www.mdanalysis.org/">Website</a> | <a href="https://groups.google.com/forum/#!forum/mdnalysis-devel">Mailing list</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/MDAnalysis_ideas_list.md">Ideas List</a> | <a href="https://github.com/MDAnalysis/mdanalysis">Source Code</a>
+       </p>
+    </td>
+  </tr>
+ <tr>
 
-  <!-- <tr> -->
-  <!--   <td> -->
-  <!--     <img width="300px" src="img/arviz.png"/> -->
-  <!--   </td> -->
-  <!--   <td> -->
-  <!--      <h1>ArviZ</h1> -->
-  <!--      <p> -->
-  <!--       ArviZ is a Python package for exploratory analysis of Bayesian models. Includes functions for posterior analysis, sample diagnostics, model checking, and comparison. The goal is to provide backend-agnostic tools for diagnostics and visualizations of Bayesian inference in Python, by first converting inference data into xarray objects. -->
-  <!--      </p> -->
-  <!--      <p> -->
-  <!--        <a href="https://arviz-devs.github.io/arviz/">Website</a> | <a href="https://github.com/arviz-devs/arviz/wiki/GSoD-2019-projects">Ideas List</a> | <a href="https://gitter.im/arviz-devs/community"> Contact (Gitter) </a> | <a href="https://github.com/arviz-devs/arviz">Source Code</a> -->
-  <!--      </p> -->
-  <!--   </td> -->
-  <!-- </tr> -->
   
   <tr>
     <td>
@@ -107,77 +104,23 @@ In alphabetic order.
       </p>
    </td>
  </tr>
-
+ 
+   <tr>
+    <td>
+      <img width="300px" src="https://i2.wp.com/www.numfocus.org/wp-content/uploads/2016/07/shogun-logo-300.png?w=1080&ssl=1"/>
+    </td>
+    <td>
+      <h1>Shogun</h1>
+      <p>The Shogun Machine Learning Toolbox is devoted to making machine learning tools available for free, to everyone. It provides efficient implementation of all standard ML algorithms. Shogun ensures that the underlying algorithms are transparent and accessible—a unified interface provides access via many popular programming languages, including C++, Python, Octave, R, Java, Lua, C#, and Ruby.
+      </p>
+      <p><a href="http://www.shogun-toolbox.org/">Website</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Shogun_ideas_list.md">Ideas List</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/Shogun_ideas_list.md#contact"> Contact </a>
+      </p>
+   </td>
+ </tr>
+   
 </table>
 
 
-## NumFOCUS Organizations
-
-Not all NumFOCUS organizations participate under our umbrella. These lists show
-which organizations are participating with GSoD and where you can find
-information how to work with them.
-
-### Fiscally Sponsored Organizations GSoD Status
-
-
-| Project                         | Status                           | Ideas Pages                                         |
-| -------                         | ------                           | -----------                                         |
-| [AstroPy]                       |                     |                                                     | 
-| [Blosc]                         |  Participating                    |                                                     | 
-| [Cantera]                       |                                  |                                                     | 
-| [Econ-ARK][Econ-ARK]            |                                  |                                                     | 
-| [FEniCS Project][FEniCSproject] | Participating                    |                                                     | 
-| [IPython]                       |                                  |                                                     | 
-| [Julia]                         | Participating                    |                                                     | 
-| [JuMP]                          |                                  |                                                     | 
-| [Matplotlib]                    | Participating                    |                                                     | 
-| [nteract]                       |                                  |                                                     | 
-| [NumPy]                         | Participating                    |                                                     | 
-| [Open Journals][theoj]          |                                  |                                                     | 
-| [Project Jupyter][Jupyter]      |                                  |                                                     | 
-| [pandas]                        |                                  |                                                     | 
-| [PyMC3](pymc3)                  | Participating                    |                                                     | 
-| [PyTables]                      |                                  |                                                     | 
-| [QuantEcon]                     |                                  |                                                     | 
-| [rOpenSci]                      |                                  |                                                     | 
-| [Shogun]                        | Participating                    |                                                     | 
-| [SunPy]                         | Participating                    |                                                     | 
-| [SymPy]                         |                                  |                                                     | 
-| [Stan]                          |                                  |                                                     | 
-| [yt]                            |                                  |                                                     | 
-
-### Affiliated Organizations GSoD Status
-
-| Project              | Status                           | Ideas Pages |
-| -------              | ------                           | ----------- |
-| [ArviZ]              |                     |             | 
-| [Bokeh]              |                                  |             | 
-| [Chainer]            |                                  |             | 
-| [Conda]              |                                  |             | 
-| [conda-forge]        |                                  |             | 
-| [CuPy]               |                                  |             | 
-| [Cython]             |                                  |             | 
-| [Dash]               |                                  |             | 
-| [Data Retriever][DR] |                     |             | 
-| [Dask]               |                                  |             | 
-| [DyND]               |                                  |             | 
-| [Gensim]             |                     |             | 
-| [MDAnalysis]         | Participating                    |             | 
-| [Numba]              |                                  |             | 
-| [Orange]             |                                  |             | 
-| [Pomegranate]        |                                  |             | 
-| [PythonXY]           |                                  |             | 
-| [QuTiP]              |                     |             | 
-| [SciPy]              | Participating                    |             | 
-| [scikit-image]       |                                  |             | 
-| [scikit-bio]         |                                  |             | 
-| [scikit-learn]       |                                  |             | 
-| [Statmodels]         |                                  |             | 
-| [Spack]              |                                  |             | 
-| [Spyder]             |                                  |             | 
-| [Theano]             |                                  |             | 
-| [xarray]             |                                  |             | 
-| [Yellowbrick]        |                                  |             | 
 
 [ArviZ]: https://arviz-devs.github.io/arviz/
 [AstroPy]: http://www.astropy.org/
