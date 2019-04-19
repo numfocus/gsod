@@ -1,5 +1,4 @@
-## About
-__Name:__ blosc.org
+## About Blosc
 
 __Description:__ A very high performance meta-compressor library especially designed for compressing binary data.
 
@@ -10,10 +9,28 @@ __Repositories:__
   * https://github.com/Blosc/c-blosc2
   * https://github.com/Blosc/Caterva
 
-__Current docs:__ https://blosc-doc.readthedocs.io
+__Description:__ [C-Blosc](https://github.com/Blosc/c-blosc) is a specialized meta-compressor for binary data (data that usually represents numbers using a fixed amount of bytes).  C-Blosc is designed to bring data to CPU computing units as fast as possible. The Blosc library optimizes compression speed to improve performance for computations on compressed data sets.
+
+[C-Blosc2](https://github.com/Blosc/c-blosc2) is the next generation of the library. In addition to improved performance, it also offers efficient support for persistency and multiple architectures (Intel and ARM).  The Blosc2 libraries offer major benefits to big data projects interested in leveraging compression in their pipelines.  However, the current documentation, although [pretty formatted](https://blosc-doc.readthedocs.io), is fairly terse and only meant for low-level C developers.
+
+[Caterva](https://github.com/Blosc/Caterva) is a C library on top of C-Blosc2 that implements a simple multidimensional container for compressed binary data.  It adds the capability to filter, manipulate, and transform data in these containers, either in-memory or on-disk.  This is a young project, so documentation here is still extremely basic.
+
+## The state of Blosc documentation
+
+The traditional documentation for the Blosc library is made via docstrings in the [blosc.h header](https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h).  The documentation has been refined through the years with the feedback of users, and these were able to contribite directly to its improvement via pull requests. However, while this approach is quite typical for developers using the low level C library, for Blosc2 and Caterva, we would like to improve the not only the quality of the docstrings, but also the accessibility and the visual aspects of it.  In this sense, [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) has started this path, but we would like to continue pushing it in this direction further.
+
+## How Blosc documentation is built
+ For C-Blosc2, we are using a mix of [Sphinx](http://www.sphinx-doc.org), [doxygen](http://www.doxygen.nl) and [breathe](https://breathe.readthedocs.io).  We then use the [ReadTheDocs](https://readthedocs.org) service so as to render the docs automatically and expose the HTML/PDF output to the public.  For Caterva, we plan to follow a similar approach.
+
+### Current documentation:
+
+* Current version (stable): https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h
+* Latest version for C-Blosc2: https://blosc-doc.readthedocs.io/en/latest/
+* Blosc website: http://blosc.org
+* GitHub repository (all the projects inside the Blosc umbrella): https://github.com/Blosc
 
 ## Contact
-The primary communication channels are chat and mailing list, but please feel free to email us if you would like to speak privately. 
+The primary communication channels are chat and mailing list, but please feel free to email us (Francesc Alted <francesc@blosc.org>, as GSoD coordinator) if you would like to speak privately.
 
 __Chat:__ https://gitter.im/Blosc/c-blosc
 
@@ -21,16 +38,11 @@ __Mailing List__: blosc@googlegroups.com
 
 __Email:__ blosc@blosc.org
 
-
 __Project name:__ Blosc: Handling Compressed Data for Scientists
 
-__Mentor:__ [FrancescAlted](https://github.com/FrancescAlted)
+__Mentors:__ [FrancescAlted](https://github.com/FrancescAlted), [Aleix Alcacer](https://github.com/aleix11alcacer)
 
-__Description:__ C-Blosc is a specialized meta-compressor for binary data (data that usually represents numbers using a fixed amount of bytes).  C-Blosc is designed to bring data to CPU computing units as fast as possible. The Blosc library optimizes compression speed to improve performance for computations on compressed data sets.
-
-[C-Blosc2](https://github.com/Blosc/c-blosc2) is the next generation of the library. In addition to improved performance, it also offers efficient support for persistency and multiple architectures (Intel and ARM).  The Blosc2 libraries offer major benefits to big data projects interested in leveraging compression in their pipelines.  However, the current documentation, although [pretty formatted](https://blosc-doc.readthedocs.io), is fairly terse and only meant for low-level C developers.
-
-[Caterva](https://github.com/Blosc/Caterva) is a C library on top of C-Blosc2 that implements a simple multidimensional container for compressed binary data.  It adds the capability to filter, manipulate, and transform data in these containers, either in-memory or on-disk.  This is a young project, so documentation here is still extremely basic.
+## Project idea: Improve the overall quality and make a conceptual overview
 
 We would very much like to improve the quality of the existing documentation for these three projects (C-Blosc, C-Blosc2 and Caterva).  Furthermore, we also want to add a conceptual overview for the projects ansd their underlying commonalities, to give newcomers to the libraries a comprehensive birds-eye view of the Blosc products, and enable them to quickly choose the libraries that suit their use cases and begin developing tools that fit their needs.
 
