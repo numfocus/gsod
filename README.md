@@ -86,7 +86,7 @@ In alphabetic order.
        <h1>MDAnalysis</h1>
        <p>MDAnalysis is a Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats</p>
        <p>
-         <a href="https://www.mdanalysis.org/">Website</a> | <a href="https://groups.google.com/forum/#!forum/mdnalysis-devel">Mailing list</a> | <a href="https://github.com/numfocus/gsod/blob/master/2019/MDAnalysis_ideas_list.md">Ideas List</a> | <a href="https://github.com/MDAnalysis/mdanalysis">Source Code</a>
+         <a href="https://www.mdanalysis.org/">Website</a> | <a href="https://groups.google.com/forum/#!forum/mdnalysis-devel">Mailing list</a> | <a href="https://github.com/MDAnalysis/mdanalysis/wiki/Google-Season-of-Docs">Ideas List</a> | <a href="https://github.com/MDAnalysis/mdanalysis">Source Code</a>
        </p>
     </td>
   </tr>
