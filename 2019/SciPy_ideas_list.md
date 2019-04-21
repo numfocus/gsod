@@ -45,6 +45,8 @@ We assume that the technical writer who will take on this project is not yet fam
 - [Sources and executable notebooks](https://github.com/elegant-scipy/elegant-scipy) for the book [Elegant SciPy](https://www.ebooks.com/en-nl/95838978/elegant-scipy/nunez-iglesias-juan-walt-stefan-van-der-dashnow-ha/).
 - The [goodreads list](https://www.goodreads.com/shelf/show/python-scipy) of books on "python-scipy". Many of those books are about the "SciPy ecosystem", which has NumPy and SciPy at its core.
 
+**Mentors**: Ralf Gommers, Evgeni Burovski
+
 
 ## Project idea: Improving the documentation of scipy.stats
 
@@ -71,3 +73,5 @@ This project would be suitable to a writer who wants to treat one submodule of S
 * Examples of Github issues related to the documentation:
     * https://github.com/scipy/scipy/issues/9119 (missing docs)
     * https://github.com/scipy/scipy/issues/4952 (tutorial improvent suggestions by a user)
+
+**Mentors**: Christoph Baumgarten, Paul van Mulbregt
