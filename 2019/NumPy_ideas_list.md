@@ -130,3 +130,6 @@ source setting - so we'll all learn from each other!*
 - The [goodreads list](https://www.goodreads.com/shelf/show/python-scipy) of
   books on "python-scipy". Many of those books are about the "SciPy ecosystem",
   which has NumPy at its core.
+  
+  
+  **Mentors**: Ralf Gommers, Matti Picus
