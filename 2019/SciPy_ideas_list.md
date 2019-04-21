@@ -22,7 +22,7 @@ Welcome, and thank you for taking an interest in SciPy! On this page we will fir
 
 ## Contact
 
-As a community driven project we try to have all conversations about SciPy in public. The main venue for discussions related to the *development* of SciPy (which includes GSoD) is the `scipy-dev` mailing list: https://scipy.org/scipylib/mailing-lists.html#mailing-lists. Please register and post to that list for discussing a GSoD proposal or idea. In case you really want to pre-discuss something in private first, please contact the SciPy GSoD coordinator (Ralf Gommers, ralf.gommers@gmail.com).
+As a community driven project we try to have all conversations about SciPy in public. The main venue for discussions related to the *development* of SciPy (which includes GSoD) is the `scipy-dev` mailing list: https://scipy.org/scipylib/mailing-lists.html#mailing-lists. Please register and post to that list for discussing a GSoD proposal or idea. In case you want to pre-discuss something in private first, please contact the SciPy GSoD coordinators at numpy-scipy-gsod@googlegroups.com.
 
 
 ## Project idea: High level restructuring and end user focus
