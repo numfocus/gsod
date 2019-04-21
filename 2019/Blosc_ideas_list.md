@@ -52,11 +52,18 @@ We would very much like to improve the quality of the existing documentation for
 
 In particular, we would like to improve:
 * the current API documentation: better structure, new _see also_ sections, and better style and clarity
-* conceptual overview and introduction to the libraries
+* conceptual overview and introduction to the libraries (see section below)
 * Blosc/Caterva role in the high-level pipelines.  A tutorial for a high-profile or common use case would be ideal
 * assumptions Blosc/Caterva makes about the structure of the data, user, and task
 * the relationship between Blosc and libraries built on top, such as PyTables, bcolz or zarr
 * How-to guides for compressing, storing and retrieving data in different scenarios
+
+### Conceptual overview and introduction to libraries
+
+* __Blosc2__: Explain how the new compression pipeline works, possibly using diagrams, and in particular, how to assess the order for the different filters so as to best achieve speed, compression ratio or a balance among the two.
+* __Caterva__: Explain the concept of chunking in multidimensional containers, with emphasis on how the dimensions chosen for the chunk are affecting the time to access data, and why the data access pattern is extremely important for the election of the chunk shape.
+
+For both cases (Blosc2 and Caterva), we should come with exemplary datasets that will serve as use cases for studies on how to achieve the above goals.
 
 ### Similar libraries that we could use as example
 
