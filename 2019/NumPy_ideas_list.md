@@ -72,8 +72,8 @@ public. The main venue for discussions related to the *development* of NumPy
 (which includes GSoD) is the `numpy-discussion` mailing list:
 https://scipy.org/scipylib/mailing-lists.html#mailing-lists. Please register
 and post to that list for discussing a GSoD proposal or idea. In case you
-really want to pre-discuss something in private first, please contact the NumPy
-GSoD coordinator (Ralf Gommers, ralf.gommers@gmail.com).
+want to pre-discuss something in private first, please contact the NumPy
+GSoD coordinators at numpy-scipy-gsod@googlegroups.com.
 
 
 ## Project idea: High level restructuring and end user focus
