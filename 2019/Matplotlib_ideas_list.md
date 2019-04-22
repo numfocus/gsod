@@ -1,7 +1,7 @@
 ## About
 __Name:__ matplotlib.org
 
-__Description:__ Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib has over 1M users and is used throughout academia and industry.  It is used in Cell Profiler for cancer research, the nobel prize winning work by LIGO, the recent EHT observation of a blackhole, and by countless grad students on their individual research
+__Description:__ Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib has over 1M users and is used throughout academia and industry.  It is used in Cell Profiler for cancer research, the nobel prize winning work by LIGO, the recent EHT observation of a black hole, and by countless grad students on their individual research
 
 __Website:__ https://matplotlib.org/
 
@@ -25,13 +25,13 @@ __Project name:__ Matplotlib for Data Scientists
 
 __Mentors:__ [story645](https://github.com/story645/), [@tacaswell](https://github.com/tacaswell)
 
-__Description:__ Matplotlib was primarily develped by scientists for scientific visualization, and modeled on scientific computation langauges such as Matlab, but one of the fastest growing audiences for Matplotlib is data science practitioners. To address the needs of this audience, we propose developing a conceptual overview (such as [2-4] listed below) oriented at newcomers to scientific visualization. 
+__Description:__ Matplotlib was primarily developed by scientists for scientific visualization, and modeled on scientific computation languages such as Matlab, but one of the fastest growing audiences for Matplotlib is data science practitioners. To address the needs of this audience, we propose developing a conceptual overview (such as [2-4] listed below) oriented at newcomers to scientific visualization. 
 
 The overview would possibly cover topics such as:
 * the visualization pipeline: data->transformation->chart [1]
-* matplotlib's role in the pipeline , i.e. that it's a low level library [7,2,3]
+* Matplotlib's role in the pipeline , i.e. that it's a low level library [7,2,3]
 * assumptions matplotlib makes about the structure of the data, user, and task
-* matplotlib's imperative architecture and how that differs from declarative libraries like ggplot [5]
+* Matplotlib's imperative architecture and how that differs from declarative libraries like ggplot [5]
 * the relationship between matplotlib and libaries built on top, such as Pandas and Seaborn [5, 8, 9] 
 * terminology that can be confusing or is used inconsistently (ex norm and colormap on images, tickers/locators) [5]
 * how to customize the plots created by libraries like Pandas and Seaborn
@@ -54,13 +54,13 @@ __Related material__:
 * [8] https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f
 * [9] https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0
 
-__Project name:__ Matplotlib Cheetsheets
+__Project name:__ Matplotlib Cheat sheets
 
 __Mentors:__ [story645](https://github.com/story645/), [@tacaswell](https://github.com/tacaswell)
 
-__Description:__ Matplotlib provides a comprehensive gallery of examples [1], but the sheer number of examples can be overwhelmng and the coding heavy orientation can leave users really wanting a little bit of context. We propose a series of cheatsheets that provide some contextual knowledge, modeled on the Pandas and GGplot sheets [2,3], that users can use as references for common tasks in Matplotlib. 
+__Description:__ Matplotlib provides a comprehensive gallery of examples [1], but the sheer number of examples can be overwhelming and the coding heavy orientation can leave users really wanting a little bit of context. We propose a series of cheat sheets that provide some contextual knowledge, modeled on the Pandas and ggplot sheets [2,3], that users can use as references for common tasks in Matplotlib. 
 
-The cheetsheets would be on topics such as:
+The cheat sheets would be on topics such as:
 * terminology that can be confusing or is used inconsistently (ex norm and colormap on images, tickers/locators) 
 * elements of a matplotlib figure [4]
 * making the basic chart types - pie, bar, line, scatter, heatmap [10]
@@ -71,7 +71,7 @@ The cheetsheets would be on topics such as:
 * animation [14]
 * how to customize the plots created by libraries like Pandas and Seaborn [15]
 
-The expectation is some of these topics could possibly be combined into one cheatsheet and some sheets may overlap - deep dive versus surface - and we hope the technical writer will help prevent us from making overwhelming reference sheets. We also hope the technical writer will help identify other topics that may make for good cheetsheets. 
+The expectation is some of these topics could possibly be combined into one cheatsheet and some sheets may overlap - deep dive versus surface - and we hope the technical writer will help prevent us from making overwhelming reference sheets. We also hope the technical writer will help identify other topics that may make for good cheat sheets. 
 
 __Related material__:
 * [1] https://matplotlib.org/gallery/index.html
