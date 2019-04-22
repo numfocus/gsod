@@ -1,7 +1,7 @@
 ## About
 __Name:__ matplotlib.org
 
-__Description:__ Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+__Description:__ Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib has over 1M users and is used throughout academia and industry.  It is used in Cell Profiler for cancer research, the nobel prize winning work by LIGO, the recent EHT observation of a blackhole, and by countless grad students on their individual research
 
 __Website:__ https://matplotlib.org/
 
