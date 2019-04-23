@@ -24,7 +24,7 @@ Blosc is more a denomination for the compression technology used, and it serves 
 The traditional documentation for the Blosc library is made via docstrings in the [blosc.h header](https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h).  The documentation has been refined through the years with the feedback of users, and these were able to contribite directly to its improvement via pull requests. However, while documenting via headers is quite typical for developers using low level C libraries, for Blosc2 and Caterva we would like to improve not just the quality of the docstrings, but also the accessibility and the visual aspects of it.  In this sense, and even though [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) and [Caterva](https://caterva.readthedocs.io/en/latest/api.html) have started this latter path, but we would like to continue pushing further it in this direction.
 
 ## How Blosc documentation is built
- For C-Blosc2 and Caterva, we are using a mix of [Sphinx](http://www.sphinx-doc.org), [doxygen](http://www.doxygen.nl) and [breathe](https://breathe.readthedocs.io).  We then use the [ReadTheDocs](https://readthedocs.org) service so as to render the docs automatically and expose the HTML/PDF output to the public.
+ For [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) and [Caterva](https://caterva.readthedocs.io/en/latest/api.html), we are using a mix of [Sphinx](http://www.sphinx-doc.org), [doxygen](http://www.doxygen.nl) and [breathe](https://breathe.readthedocs.io).  We then use the [ReadTheDocs](https://readthedocs.org) service so as to render the docs automatically and expose the HTML/PDF output to the public.
 
 ### Current documentation:
 
@@ -48,7 +48,7 @@ __Mentors:__ [FrancescAlted](https://github.com/FrancescAlted), [Aleix Alcacer](
 
 ## Project idea: Improve the overall quality and make a conceptual overview
 
-We would very much like to improve the quality of the existing documentation for these three projects (C-Blosc, C-Blosc2 and Caterva).  Furthermore, we also want to add a conceptual overview for the projects and their underlying commonalities, to give newcomers to the libraries a comprehensive birds-eye view of the Blosc products, and enable them to quickly choose the libraries that suit their use cases and begin developing tools that fit their needs.
+We would very much like to improve the quality of the existing documentation for these three projects ([C-Blosc](https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h), [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) and [Caterva](https://caterva.readthedocs.io/en/latest/api.html)).  Furthermore, we also want to add a conceptual overview for the projects and their underlying commonalities, to give newcomers to the libraries a comprehensive birds-eye view of the Blosc products, and enable them to quickly choose the libraries that suit their use cases and begin developing tools that fit their needs.
 
 In particular, we would like to improve:
 * the current API documentation: better structure, new _see also_ sections, and better style and clarity
