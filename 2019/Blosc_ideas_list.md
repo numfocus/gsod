@@ -1,6 +1,6 @@
 ## About Blosc
 
-__Description:__ A very high performance meta-compressor library especially designed for compressing binary data.
+__Description:__ A set of very high performance libraries especially designed for compressing and storing binary data.
 
 __Website:__ http://blosc.org/
 
@@ -21,10 +21,10 @@ Blosc is more a denomination for the compression technology used, and it serves 
 
 ## The state of Blosc documentation
 
-The traditional documentation for the Blosc library is made via docstrings in the [blosc.h header](https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h).  The documentation has been refined through the years with the feedback of users, and these were able to contribite directly to its improvement via pull requests. However, while this approach is quite typical for developers using the low level C library, for Blosc2 and Caterva, we would like to improve the not only the quality of the docstrings, but also the accessibility and the visual aspects of it.  In this sense, [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) has started this path, but we would like to continue pushing it in this direction further.
+The traditional documentation for the Blosc library is made via docstrings in the [blosc.h header](https://github.com/Blosc/c-blosc/blob/master/blosc/blosc.h).  The documentation has been refined through the years with the feedback of users, and these were able to contribite directly to its improvement via pull requests. However, while documenting via headers is quite typical for developers using low level C libraries, for Blosc2 and Caterva we would like to improve not just the quality of the docstrings, but also the accessibility and the visual aspects of it.  In this sense, and even though [C-Blosc2](https://blosc-doc.readthedocs.io/en/latest/) and [Caterva](https://caterva.readthedocs.io/en/latest/api.html) have started this latter path, but we would like to continue pushing further it in this direction.
 
 ## How Blosc documentation is built
- For C-Blosc2, we are using a mix of [Sphinx](http://www.sphinx-doc.org), [doxygen](http://www.doxygen.nl) and [breathe](https://breathe.readthedocs.io).  We then use the [ReadTheDocs](https://readthedocs.org) service so as to render the docs automatically and expose the HTML/PDF output to the public.  For Caterva, we plan to follow a similar approach.
+ For C-Blosc2 and Caterva, we are using a mix of [Sphinx](http://www.sphinx-doc.org), [doxygen](http://www.doxygen.nl) and [breathe](https://breathe.readthedocs.io).  We then use the [ReadTheDocs](https://readthedocs.org) service so as to render the docs automatically and expose the HTML/PDF output to the public.
 
 ### Current documentation:
 
@@ -34,7 +34,7 @@ The traditional documentation for the Blosc library is made via docstrings in th
 * GitHub repository (all the projects inside the Blosc umbrella): https://github.com/Blosc
 
 ## Contact
-The primary communication channels are chat and mailing list, but please feel free to email us ([Francesc Alted](francesc@blosc.org), as GSoD coordinator) if you would like to speak privately.
+The primary communication channels are chat and mailing list, but please feel free to email us (Francesc Alted <francesc@blosc.org>), as GSoD coordinator) if you would like to speak privately.
 
 __Chat:__ https://gitter.im/Blosc/c-blosc
 
@@ -48,14 +48,14 @@ __Mentors:__ [FrancescAlted](https://github.com/FrancescAlted), [Aleix Alcacer](
 
 ## Project idea: Improve the overall quality and make a conceptual overview
 
-We would very much like to improve the quality of the existing documentation for these three projects (C-Blosc, C-Blosc2 and Caterva).  Furthermore, we also want to add a conceptual overview for the projects ansd their underlying commonalities, to give newcomers to the libraries a comprehensive birds-eye view of the Blosc products, and enable them to quickly choose the libraries that suit their use cases and begin developing tools that fit their needs.
+We would very much like to improve the quality of the existing documentation for these three projects (C-Blosc, C-Blosc2 and Caterva).  Furthermore, we also want to add a conceptual overview for the projects and their underlying commonalities, to give newcomers to the libraries a comprehensive birds-eye view of the Blosc products, and enable them to quickly choose the libraries that suit their use cases and begin developing tools that fit their needs.
 
 In particular, we would like to improve:
 * the current API documentation: better structure, new _see also_ sections, and better style and clarity
 * conceptual overview and introduction to the libraries (see section below)
-* Blosc/Caterva role in the high-level pipelines.  A tutorial for a high-profile or common use case would be ideal
-* assumptions Blosc/Caterva makes about the structure of the data, user, and task
-* the relationship between Blosc and libraries built on top, such as PyTables, bcolz or zarr
+* Blosc2/Caterva role in the high-level pipelines.  A tutorial for a high-profile or common use case would be ideal
+* assumptions Blosc2/Caterva makes about the structure of the data, user, and task
+* the relationship between Blosc and libraries built on top, such as [PyTables](https://github.com/PyTables/PyTables), [bcolz](https://github.com/Blosc/bcolz/tree/master/bcolz) or [zarr](https://github.com/zarr-developers/zarr)
 * How-to guides for compressing, storing and retrieving data in different scenarios
 
 ### Conceptual overview and introduction to libraries
