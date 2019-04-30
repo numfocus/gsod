@@ -118,7 +118,6 @@ source setting - so we'll all learn from each other!*
   material specifically aimed at learning/teaching NumPy and the basics of the
   SciPy ecosystem in courses.
 - Other NumPy tutorials, from:
-  [DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial),
   [Guru99](https://www.guru99.com/numpy-tutorial.html), [Machine learning
   plus](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/),
   [Stanford CS231](http://cs231n.github.io/python-numpy-tutorial/),
