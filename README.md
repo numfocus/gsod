@@ -50,7 +50,7 @@ The list should contain for each project.
 In alphabetic order.
 
 <table>
-  
+ <!-- 
    <tr>
     <td>
       <img width="300px" src="https://i0.wp.com/numfocus.org/wp-content/uploads/2019/02/blosc-logo-300x300.png?resize=300%2C300&ssl=1"/>
@@ -77,7 +77,7 @@ In alphabetic order.
       </p>
    </td>
  </tr>
- 
+-->
  <tr>
     <td>
       <img width="300px" src="https://i1.wp.com/www.numfocus.org/wp-content/uploads/2017/11/mdanalysis-logo-300.png?w=1080&ssl=1" />
