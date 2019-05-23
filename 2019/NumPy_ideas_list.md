@@ -7,6 +7,10 @@ out that we are not only interested in just that idea; we'd love to talk to you
 if you have your own ideas about a project that you're excited about and that
 you think would help improve NumPy's documentation or online presence.
 
+*Please note that Season of Docs is a program for writers with previous
+experience to show for the application. If you are a student, please consider
+Google Summer of Code instead.*
+
 **About NumPy**: NumPy is *very* widely used in pretty much every field of
 science and engineering. Its user base spans from beginning coders to
 experienced researchers doing state-of-the-art scientific and industrial R&D.
