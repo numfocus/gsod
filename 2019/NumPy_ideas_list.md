@@ -54,7 +54,7 @@ be added at the same time as code, including usage examples. We do not have an
 overall "documentation work plan" to fix holes in existing documentation and
 restructure the documentation for, e.g., easier navigation. The core
 development team drives and decides on doc changes as they are proposed; there
-is no dedicated "documentation manager" (yet, our project maturity is still
+is no dedicated "documentation manager" (yet; our project maturity is still
 increasing! - see, e.g., our [governance
 structure](https://www.numpy.org/devdocs/dev/governance/governance.html)).
 
@@ -95,7 +95,7 @@ technical writer that is able to help us address this challenge.
 - Reviewing and improving the structure of the main navigation page of [the
   NumPy documentation](https://www.numpy.org/devdocs/).
 - Producing a roadmap or list of work items for engaging the community in
-  further documentation work (we have a lot of contributor, channeling their
+  further documentation work (we have a lot of contributors, channeling their
   energy by setting the right goals and priorities could have a lot of impact).
   This may include making explicit what different kinds of users need to see.
 - Rewriting a section of the User Guide (that can then serve as a template for
@@ -133,6 +133,5 @@ source setting - so we'll all learn from each other!*
 - The [goodreads list](https://www.goodreads.com/shelf/show/python-scipy) of
   books on "python-scipy". Many of those books are about the "SciPy ecosystem",
   which has NumPy at its core.
-  
-  
-  **Mentors**: Ralf Gommers, Matti Picus
+
+**Mentors**: Ralf Gommers, Matti Picus
