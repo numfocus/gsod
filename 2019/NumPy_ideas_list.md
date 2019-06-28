@@ -38,8 +38,8 @@ built with [Sphinx](http://www.sphinx-doc.org). Sphinx generates static
 websites (making them easy to deploy) and provides extensive functionality to
 transform plain-text *reStructuredText* documents to html, as well as extract
 and cross-link documentation automatically from docstrings in Python source
-code.  Reference documentation follows the [NumPy docstring standard]
-(https://numpydoc.readthedocs.io/en/latest/format.html). A detailed
+code.  Reference documentation follows the [NumPy docstring
+standard](https://numpydoc.readthedocs.io/en/latest/format.html). A detailed
 guide on how to document functions, classes and other objects can be found
 [here](https://www.numpy.org/devdocs/docs/howto_document.html), and how to
 build them [here](https://www.numpy.org/devdocs/docs/howto_build_docs.html).
@@ -55,8 +55,8 @@ overall "documentation work plan" to fix holes in existing documentation and
 restructure the documentation for, e.g., easier navigation. The core
 development team drives and decides on doc changes as they are proposed; there
 is no dedicated "documentation manager" (yet, our project maturity is still
-increasing! - see, e.g., our [governance structure](https://www.numpy.org/
-devdocs/dev/governance/governance.html)).
+increasing! - see, e.g., our [governance
+structure](https://www.numpy.org/devdocs/dev/governance/governance.html)).
 
 
 **Current documentation**:
