@@ -38,8 +38,8 @@ built with [Sphinx](http://www.sphinx-doc.org). Sphinx generates static
 websites (making them easy to deploy) and provides extensive functionality to
 transform plain-text *reStructuredText* documents to html, as well as extract
 and cross-link documentation automatically from docstrings in Python source
-code.  Reference documentation follows the [NumPy docstring standard]
-(https://numpydoc.readthedocs.io/en/latest/format.html). A detailed
+code.  Reference documentation follows the [NumPy docstring
+standard](https://numpydoc.readthedocs.io/en/latest/format.html). A detailed
 guide on how to document functions, classes and other objects can be found
 [here](https://www.numpy.org/devdocs/docs/howto_document.html), and how to
 build them [here](https://www.numpy.org/devdocs/docs/howto_build_docs.html).
@@ -54,9 +54,9 @@ be added at the same time as code, including usage examples. We do not have an
 overall "documentation work plan" to fix holes in existing documentation and
 restructure the documentation for, e.g., easier navigation. The core
 development team drives and decides on doc changes as they are proposed; there
-is no dedicated "documentation manager" (yet, our project maturity is still
-increasing! - see, e.g., our [governance structure](https://www.numpy.org/
-devdocs/dev/governance/governance.html)).
+is no dedicated "documentation manager" (yet; our project maturity is still
+increasing! - see, e.g., our [governance
+structure](https://www.numpy.org/devdocs/dev/governance/governance.html)).
 
 
 **Current documentation**:
@@ -95,7 +95,7 @@ technical writer that is able to help us address this challenge.
 - Reviewing and improving the structure of the main navigation page of [the
   NumPy documentation](https://www.numpy.org/devdocs/).
 - Producing a roadmap or list of work items for engaging the community in
-  further documentation work (we have a lot of contributor, channeling their
+  further documentation work (we have a lot of contributors, channeling their
   energy by setting the right goals and priorities could have a lot of impact).
   This may include making explicit what different kinds of users need to see.
 - Rewriting a section of the User Guide (that can then serve as a template for
@@ -133,6 +133,5 @@ source setting - so we'll all learn from each other!*
 - The [goodreads list](https://www.goodreads.com/shelf/show/python-scipy) of
   books on "python-scipy". Many of those books are about the "SciPy ecosystem",
   which has NumPy at its core.
-  
-  
-  **Mentors**: Ralf Gommers, Matti Picus
+
+**Mentors**: Ralf Gommers, Matti Picus
