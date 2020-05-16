@@ -8,7 +8,7 @@ If you have any questions your mentor can't answer or have problems with your
 mentor please **contact us first** before you write to Google.
 
 In this email you will find general information on being a NumFOCUS GSoD
-technical writer. You will also receive a email from your mentor with
+technical writer. You will also receive an email from your mentor with
 information about working on your project soon.
 
 1.  Good communication between writer and mentor is important for
@@ -18,7 +18,7 @@ information about working on your project soon.
     please contact one of the [administrators][admin]. We are here to
     help you.
 
-2.  The dov development period starts on 2 Sep. From now until then we
+2.  The doc development period starts on 2 Sep. From now until then we
     are in the "Community Bonding Period". During this period you
     should
 
